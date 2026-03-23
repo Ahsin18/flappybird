@@ -24,4 +24,4 @@ A simple Flappy Bird game built using Java Swing and AWT.
 
 ## 👨‍💻 Author
 
-* Your Name
+* Ahsin Nair
